@@ -1,0 +1,64 @@
+{
+  "bulk": {
+    "skinny": {
+      "light": {
+        "diet_type": "Very high calorie, protein-rich",
+        "meal": "Oats with peanut butter, banana smoothie, chicken pasta"
+      },
+      "moderate": {
+        "diet_type": "Extremely high protein and carb",
+        "meal": "Eggs, rice with beef, avocado salad, whey shake"
+      },
+      "intense": {
+        "diet_type": "Bulk mode extreme, eat 5-6 meals/day",
+        "meal": "Red meat, brown rice, nuts, pasta, mass gainer shakes"
+      }
+    },
+    "muscular": {
+      "moderate": {
+        "diet_type": "Clean bulk with muscle focus",
+        "meal": "Steak, sweet potato, Greek yogurt, peanut butter toast"
+      }
+    }
+  },
+  "lean": {
+    "overweight": {
+      "light": {
+        "diet_type": "Low-carb, high protein",
+        "meal": "Boiled eggs, spinach salad, grilled chicken breast"
+      },
+      "moderate": {
+        "diet_type": "Keto-friendly, high fiber",
+        "meal": "Avocado, salmon, steamed broccoli, chia pudding"
+      },
+      "intense": {
+        "diet_type": "Calorie deficit with HIIT support",
+        "meal": "Egg whites, oats, tofu, green veggies, black coffee"
+      }
+    },
+    "muscular": {
+      "intense": {
+        "diet_type": "Cutting phase, lean muscle maintenance",
+        "meal": "Lean beef, quinoa, broccoli, almond milk"
+      }
+    }
+  },
+  "strength": {
+    "muscular": {
+      "moderate": {
+        "diet_type": "Balanced macros + recovery food",
+        "meal": "Eggs, chicken rice, green beans, almonds"
+      },
+      "intense": {
+        "diet_type": "Powerlifting macros (extra carbs + creatine)",
+        "meal": "Pre/post workout shakes, meat, oats, potatoes"
+      }
+    },
+    "skinny": {
+      "moderate": {
+        "diet_type": "Muscle growth for strength base",
+        "meal": "Whole milk, chicken wraps, protein pancakes"
+      }
+    }
+  }
+}
