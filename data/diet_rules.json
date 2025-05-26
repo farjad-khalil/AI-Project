@@ -2,149 +2,266 @@
   "bulk": {
     "skinny": {
       "light": {
-        "diet_type": "Very high calorie, protein-rich",
+        "diet_type": "High calorie, protein rich",
         "meals": {
-          "breakfast": "Oats with peanut butter and banana smoothie",
-          "lunch": "Grilled chicken pasta with olive oil and sweet corn",
-          "dinner": "Beef stir fry with brown rice and avocado",
-          "snack": "Greek yogurt with almonds or a protein shake"
+          "breakfast": "Peanut butter toast with banana smoothie",
+          "lunch": "Grilled chicken with pasta and cheese",
+          "dinner": "Beef curry with rice and salad",
+          "snack": "Protein shake with almonds"
         }
       },
       "moderate": {
-        "diet_type": "Extremely high protein and carb",
+        "diet_type": "High carb + protein meals",
         "meals": {
-          "breakfast": "Eggs with whole wheat bread and fruit juice",
-          "lunch": "Chicken breast with rice and green beans",
-          "dinner": "Salmon with quinoa and salad",
-          "snack": "Peanut butter toast and whey protein"
+          "breakfast": "Egg sandwich with fruit juice",
+          "lunch": "Chicken rice bowl with corn",
+          "dinner": "Tuna pasta with vegetables",
+          "snack": "Whey protein and fruit"
         }
       },
       "intense": {
-        "diet_type": "Bulk mode extreme, 5-6 meals per day",
+        "diet_type": "Mass gainer mode",
         "meals": {
-          "breakfast": "Mass gainer shake and 4 egg omelette",
-          "lunch": "Red meat with mashed potatoes and steamed broccoli",
-          "dinner": "Grilled chicken with pasta and cheese",
-          "snack": "Protein bar and nuts"
+          "breakfast": "Mass gainer shake and omelet",
+          "lunch": "Steak, rice, and avocado",
+          "dinner": "Grilled meatballs with mashed potatoes",
+          "snack": "Protein bar and milk"
         }
       }
     },
     "muscular": {
+      "light": {
+        "diet_type": "Moderate surplus clean bulk",
+        "meals": {
+          "breakfast": "Oats with nuts and whey",
+          "lunch": "Grilled chicken and sweet potato",
+          "dinner": "Turkey breast with rice",
+          "snack": "Protein shake"
+        }
+      },
       "moderate": {
-        "diet_type": "Clean bulk with muscle focus",
+        "diet_type": "Clean bulking plan",
         "meals": {
           "breakfast": "Protein pancakes with berries",
-          "lunch": "Steak, brown rice, and spinach",
-          "dinner": "Turkey wraps with hummus",
-          "snack": "Greek yogurt and protein smoothie"
+          "lunch": "Beef rice bowl and spinach",
+          "dinner": "Baked salmon with quinoa",
+          "snack": "Nuts and protein smoothie"
+        }
+      },
+      "intense": {
+        "diet_type": "Muscle building fuel",
+        "meals": {
+          "breakfast": "Boiled eggs and toast",
+          "lunch": "Chicken wraps and lentil soup",
+          "dinner": "Pasta with red meat",
+          "snack": "Cottage cheese with honey"
         }
       }
     },
     "overweight": {
-      "moderate": {
-        "diet_type": "Moderate bulking for body recomposition",
+      "light": {
+        "diet_type": "Slow clean bulk, low fat",
         "meals": {
-          "breakfast": "Scrambled eggs with spinach and toast",
-          "lunch": "Chicken and sweet potato bowl",
+          "breakfast": "Boiled eggs with greens",
+          "lunch": "Grilled tofu and quinoa",
           "dinner": "Salmon and roasted vegetables",
-          "snack": "Cottage cheese and fruit"
+          "snack": "Low-fat Greek yogurt"
+        }
+      },
+      "moderate": {
+        "diet_type": "High protein recomposition",
+        "meals": {
+          "breakfast": "Oats with skimmed milk",
+          "lunch": "Chicken salad with olive oil",
+          "dinner": "Vegetable curry and brown rice",
+          "snack": "Protein smoothie with berries"
+        }
+      },
+      "intense": {
+        "diet_type": "Aggressive recomp for fat loss + gain",
+        "meals": {
+          "breakfast": "Scrambled eggs with avocado",
+          "lunch": "Turkey stir fry with spinach",
+          "dinner": "Lean beef and green vegetables",
+          "snack": "Whey and apple"
         }
       }
     }
   },
   "lean": {
-    "overweight": {
+    "skinny": {
       "light": {
-        "diet_type": "Low-carb, high protein",
+        "diet_type": "Tone-up lean muscle",
         "meals": {
-          "breakfast": "Boiled eggs and black coffee",
-          "lunch": "Grilled chicken salad with olive oil",
-          "dinner": "Baked fish with steamed vegetables",
-          "snack": "Cucumber slices with hummus"
+          "breakfast": "Protein oats with berries",
+          "lunch": "Chicken breast and steamed broccoli",
+          "dinner": "Grilled fish with salad",
+          "snack": "Yogurt and nuts"
         }
       },
       "moderate": {
-        "diet_type": "Keto-friendly, high fiber",
+        "diet_type": "Lean bulk low fat",
         "meals": {
-          "breakfast": "Avocado and scrambled eggs",
-          "lunch": "Salmon with kale and lemon dressing",
-          "dinner": "Zucchini noodles with ground beef",
-          "snack": "Chia pudding and almonds"
+          "breakfast": "Whey shake and banana",
+          "lunch": "Rice and turkey mince",
+          "dinner": "Tofu curry with vegetables",
+          "snack": "Fruit salad"
         }
       },
       "intense": {
-        "diet_type": "Calorie deficit with HIIT support",
+        "diet_type": "High activity lean builder",
         "meals": {
-          "breakfast": "Oats with almond milk and blueberries",
-          "lunch": "Grilled tofu with stir-fried greens",
-          "dinner": "Lentil soup and vegetable wraps",
-          "snack": "Boiled eggs and green tea"
+          "breakfast": "Omelet and fruit",
+          "lunch": "Baked fish and quinoa",
+          "dinner": "Chicken curry and brown rice",
+          "snack": "Low fat cheese"
         }
       }
     },
     "muscular": {
-      "intense": {
-        "diet_type": "Cutting phase, lean muscle maintenance",
+      "light": {
+        "diet_type": "Mild cut for visible abs",
         "meals": {
-          "breakfast": "Protein shake and boiled eggs",
-          "lunch": "Quinoa with lean beef and spinach",
-          "dinner": "Grilled chicken breast and broccoli",
-          "snack": "Low-fat cheese and apple slices"
+          "breakfast": "Black coffee and eggs",
+          "lunch": "Beef salad with flax seeds",
+          "dinner": "Baked tofu and lentils",
+          "snack": "Boiled eggs"
+        }
+      },
+      "moderate": {
+        "diet_type": "Cutting with high protein",
+        "meals": {
+          "breakfast": "Protein shake and toast",
+          "lunch": "Grilled chicken wrap",
+          "dinner": "Zucchini with lean beef",
+          "snack": "Carrot sticks with hummus"
+        }
+      },
+      "intense": {
+        "diet_type": "Shredding phase meals",
+        "meals": {
+          "breakfast": "Egg white omelet and green tea",
+          "lunch": "Quinoa with grilled fish",
+          "dinner": "Spinach and tofu stir fry",
+          "snack": "Low fat yogurt and almonds"
         }
       }
     },
-    "skinny": {
-      "moderate": {
-        "diet_type": "Lean bulk with high protein, low fat",
+    "overweight": {
+      "light": {
+        "diet_type": "Fat loss low carb",
         "meals": {
-          "breakfast": "Whey protein with oats and berries",
-          "lunch": "Grilled chicken with quinoa",
-          "dinner": "Tofu curry with vegetables",
-          "snack": "Fruit salad and yogurt"
+          "breakfast": "Hard boiled eggs and tea",
+          "lunch": "Chicken salad with olive oil",
+          "dinner": "Grilled paneer with broccoli",
+          "snack": "Cucumber and lemon water"
+        }
+      },
+      "moderate": {
+        "diet_type": "Keto lean cut",
+        "meals": {
+          "breakfast": "Avocado with eggs",
+          "lunch": "Grilled salmon and spinach",
+          "dinner": "Zoodles and ground meat",
+          "snack": "Almonds and chia pudding"
+        }
+      },
+      "intense": {
+        "diet_type": "Lean + HIIT support",
+        "meals": {
+          "breakfast": "Oats with almond milk and chia",
+          "lunch": "Tofu bowl and green beans",
+          "dinner": "Soup and veggie wraps",
+          "snack": "Boiled egg and water"
         }
       }
     }
   },
   "strength": {
-    "muscular": {
-      "moderate": {
-        "diet_type": "Balanced macros + recovery food",
+    "skinny": {
+      "light": {
+        "diet_type": "Strength starter, high carb",
         "meals": {
-          "breakfast": "Eggs and toast with milk",
-          "lunch": "Chicken rice and green beans",
-          "dinner": "Steak with baked potato",
-          "snack": "Banana and peanut butter"
+          "breakfast": "Milk and granola",
+          "lunch": "Chicken pasta",
+          "dinner": "Egg curry and rice",
+          "snack": "Protein shake and banana"
+        }
+      },
+      "moderate": {
+        "diet_type": "Build strength + weight",
+        "meals": {
+          "breakfast": "Omelet and bread",
+          "lunch": "Rice with lentils and meat",
+          "dinner": "Grilled fish and salad",
+          "snack": "Whey and peanut butter"
         }
       },
       "intense": {
-        "diet_type": "Powerlifting macros (extra carbs + creatine)",
+        "diet_type": "Strength gainer plan",
         "meals": {
-          "breakfast": "Oatmeal and scrambled eggs",
-          "lunch": "Beef lasagna and salad",
-          "dinner": "Grilled salmon with rice",
-          "snack": "Creatine shake and almonds"
+          "breakfast": "Mass gainer shake and toast",
+          "lunch": "Beef rice and spinach",
+          "dinner": "Lamb curry with chapati",
+          "snack": "Yogurt with honey"
         }
       }
     },
-    "skinny": {
-      "moderate": {
-        "diet_type": "Muscle growth for strength base",
+    "muscular": {
+      "light": {
+        "diet_type": "Strength maintenance",
         "meals": {
-          "breakfast": "Whole milk and granola",
-          "lunch": "Chicken wraps and sweet potato",
-          "dinner": "Egg curry and rice",
-          "snack": "Protein bar and milkshake"
+          "breakfast": "Eggs and toast with tea",
+          "lunch": "Grilled chicken and potatoes",
+          "dinner": "Steak with vegetables",
+          "snack": "Protein bar"
+        }
+      },
+      "moderate": {
+        "diet_type": "Strength fuel plan",
+        "meals": {
+          "breakfast": "Milkshake and sandwich",
+          "lunch": "Beef and rice",
+          "dinner": "Chicken stir fry",
+          "snack": "Nuts and whey"
+        }
+      },
+      "intense": {
+        "diet_type": "Power training macros",
+        "meals": {
+          "breakfast": "Oats and eggs",
+          "lunch": "Pasta and tuna",
+          "dinner": "Steak and mashed potatoes",
+          "snack": "Creatine shake"
         }
       }
     },
     "overweight": {
-      "moderate": {
-        "diet_type": "Strength training while reducing fat",
+      "light": {
+        "diet_type": "Strength + mild cut",
         "meals": {
-          "breakfast": "Black coffee and avocado toast",
-          "lunch": "Turkey and lentil salad",
-          "dinner": "Baked fish and green vegetables",
-          "snack": "Almonds and protein smoothie"
+          "breakfast": "Green tea and eggs",
+          "lunch": "Turkey and salad",
+          "dinner": "Fish curry and rice",
+          "snack": "Low fat milk"
+        }
+      },
+      "moderate": {
+        "diet_type": "Power build + fat trim",
+        "meals": {
+          "breakfast": "Black coffee and toast",
+          "lunch": "Chicken breast and spinach",
+          "dinner": "Baked salmon and broccoli",
+          "snack": "Almonds and yogurt"
+        }
+      },
+      "intense": {
+        "diet_type": "Aggressive strength cut",
+        "meals": {
+          "breakfast": "Protein shake and boiled egg",
+          "lunch": "Lentils and lean meat",
+          "dinner": "Vegetable stir fry with tofu",
+          "snack": "Whey and green apple"
         }
       }
     }
